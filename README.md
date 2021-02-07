@@ -21,14 +21,16 @@ I recommend this if you don't want to go blender※</p>
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145696-b51c5880-6986-11eb-822f-cdf7270c7d24.png"><img src="https://user-images.githubusercontent.com/78684522/107145696-b51c5880-6986-11eb-822f-cdf7270c7d24.png" style="max-width:50%;"></a>
 </p>
 
-3. AnimationValidator
+<p>3. AnimationValidator</p>
 https://github.com/sukedon/AnimationValidator
-Korean langu<p align="center">age patch
-<p align="center">
-![2](https://user-images.githubusercontent.com/78684522/107145697-b6e61c00-6986-11eb-94ef-2debacaecc13.gif)
-If you need?
-Give it a try this is really simple and good
-<p align="center">
+<p>Korean language patch</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145697-b6e61c00-6986-11eb-94ef-2debacaecc13.gif"><img src="https://user-images.githubusercontent.com/78684522/107145697-b6e61c00-6986-11eb-94ef-2debacaecc13.gif" style="max-width:50%;"></a>
+</p>
+
+<p>If you need?
+Give it a try this is really simple and good</p>
+
 4. PumkinsAvatarTools
 https://github.com/rurre/PumkinsAvatarTools
 Korean language patch
