@@ -11,11 +11,12 @@ Faster and more convenient optimization
 2. MeshDeleterWithTexture
 https://gatosyocora.booth.pm/items/1501527
 Korean language patch
-
-![1](https://user-images.githubusercontent.com/78684522/107145696-b51c5880-6986-11eb-822f-cdf7270c7d24.png)
 Existing mesh will be backed up
 Replace the newly deleted mesh
 I recommend this if you don't want to go blender
+
+![1](https://user-images.githubusercontent.com/78684522/107145696-b51c5880-6986-11eb-822f-cdf7270c7d24.png)
+
 
 3. AnimationValidator
 https://github.com/sukedon/AnimationValidator
