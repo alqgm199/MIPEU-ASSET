@@ -1,6 +1,6 @@
 # MIPEU-ASSET
 <p align="center">
-MIPEU-ASSET
+<p>MIPEU-ASSET</p>
 <p align="center">
 <p>1. AssetsCompressor</p>
 https://booth.pm/ko/items/2055226
