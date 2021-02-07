@@ -47,10 +47,10 @@ https://github.com/poiyomi
 ![3](https://user-images.githubusercontent.com/78684522/107145592-0aa43580-6986-11eb-9186-9bae88b71685.gif)
 <p>Not very recommended, but you may need it. umm.... maybe..?</p>
 ------------------------------------------
-<p>There is a problem with the Korean patch?
+There is a problem with the Korean patch?
 Or you can ask to drop the file.
 Please send mail to alqgm199@gmail.com
-but Confirmation may be late<p>
+but Confirmation may be late
 ------------------------------------------
-<p>All these patches are only in Korean.
-All the rest of the code is with the creator. => [1~5]</p>
+All these patches are only in Korean.
+All the rest of the code is with the creator. => [1~5]
