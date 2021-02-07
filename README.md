@@ -15,6 +15,7 @@ Korean language patch
 
 4. PumkinsAvatarTools
 https://github.com/rurre/PumkinsAvatarTools
+Korean language patch
 
 ------------------------------------------
 There is a problem with the Korean patch?
