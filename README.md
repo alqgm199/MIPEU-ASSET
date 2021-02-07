@@ -8,10 +8,10 @@ Korean language patch
 <p align="center">
 ![4](https://user-images.githubusercontent.com/78684522/107145700-b77eb280-6986-11eb-9f8b-c83d01ebe5f8.png)
 <p>Faster and more convenient optimization</p>
-
+<p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145700-b77eb280-6986-11eb-9f8b-c83d01ebe5f8.png"><img src="https://user-images.githubusercontent.com/78684522/107145700-b77eb280-6986-11eb-9f8b-c83d01ebe5f8.png" style="max-width:100%;"></a>
 </p>
-<p align="center">
+
 
 <p align="center">
 2. MeshDeleterWithTexture
