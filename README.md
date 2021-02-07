@@ -11,10 +11,10 @@ Korean language patch
 https://gatosyocora.booth.pm/items/1501527
 
 ![1](https://user-images.githubusercontent.com/78684522/107145696-b51c5880-6986-11eb-822f-cdf7270c7d24.png)
-Korean language patch
+<p>Korean language patch
 Existing mesh will be backed up
 Replace the newly deleted mesh
-I recommend this if you don't want to go blender
+I recommend this if you don't want to go blender</p>
 
 3. AnimationValidator
 https://github.com/sukedon/AnimationValidator
