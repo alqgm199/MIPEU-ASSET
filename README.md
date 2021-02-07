@@ -24,8 +24,7 @@ I recommend this if you don't want to go blender※</p>
 <p>3. AnimationValidator</p>
 https://github.com/sukedon/AnimationValidator
 <p>Korean language patch</p>
-<p>If you need?
-Give it a try this is really simple and good</p>
+<p>※If you need? Give it a try this is really simple and good※</p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145697-b6e61c00-6986-11eb-94ef-2debacaecc13.gif"><img src="https://user-images.githubusercontent.com/78684522/107145697-b6e61c00-6986-11eb-94ef-2debacaecc13.gif" style="max-width:50%;"></a>
 </p>
