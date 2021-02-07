@@ -6,7 +6,7 @@
 https://booth.pm/ko/items/2055226
 <p>Korean language patch</p>
 
-<p>Faster and more convenient optimization</p>
+<p>※Faster and more convenient optimization※</p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145700-b77eb280-6986-11eb-9f8b-c83d01ebe5f8.png"><img src="https://user-images.githubusercontent.com/78684522/107145700-b77eb280-6986-11eb-9f8b-c83d01ebe5f8.png" style="max-width:50%;"></a>
 </p>
@@ -14,9 +14,9 @@ https://booth.pm/ko/items/2055226
 <p>2. MeshDeleterWithTexture</p>
 https://gatosyocora.booth.pm/items/1501527
 <p>Korean language patch</p>
-<p>Existing mesh will be backed up
+<p>※Existing mesh will be backed up
 Replace the newly deleted mesh
-I recommend this if you don't want to go blender</p>
+I recommend this if you don't want to go blender※</p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145696-b51c5880-6986-11eb-822f-cdf7270c7d24.png"><img src="https://user-images.githubusercontent.com/78684522/107145696-b51c5880-6986-11eb-822f-cdf7270c7d24.png" style="max-width:50%;"></a>
 </p>
