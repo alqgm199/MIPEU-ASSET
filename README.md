@@ -21,6 +21,11 @@ Korean language patch
 https://github.com/poiyomi
 Korean language patch
 
+![1](https://user-images.githubusercontent.com/78684522/107145590-0841db80-6986-11eb-8feb-b4228a5ff4ac.png)
+![2](https://user-images.githubusercontent.com/78684522/107145591-0a0b9f00-6986-11eb-8d19-86c7d7117284.png)
+![3](https://user-images.githubusercontent.com/78684522/107145592-0aa43580-6986-11eb-9186-9bae88b71685.gif)
+
+
 ------------------------------------------
 There is a problem with the Korean patch?
 Or you can ask to drop the file.
