@@ -28,4 +28,4 @@ Please send mail to alqgm199@gmail.com
 but Confirmation may be late
 ------------------------------------------
 All these patches are only in Korean.
-All the rest of the code is with the creator. => [1~3]
+All the rest of the code is with the creator. => [1~5]
