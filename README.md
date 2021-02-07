@@ -1,6 +1,6 @@
 # MIPEU-ASSET
 MIPEU-ASSET
-
+<p align="center">
 1. AssetsCompressor
 https://booth.pm/ko/items/2055226
 Korean language patch
