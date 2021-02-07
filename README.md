@@ -7,7 +7,7 @@ Korean language patch
 
 ![4](https://user-images.githubusercontent.com/78684522/107145700-b77eb280-6986-11eb-9f8b-c83d01ebe5f8.png)
 <p>Faster and more convenient optimization</p>
-
+<p align="center">
 2. MeshDeleterWithTexture
 https://gatosyocora.booth.pm/items/1501527
 
