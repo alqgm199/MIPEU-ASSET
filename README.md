@@ -1,13 +1,13 @@
 # MIPEU-ASSET
 <p align="center">
 <p>MIPEU-ASSET</p>
-<p align="center">
+
 <p>1. AssetsCompressor</p>
 https://booth.pm/ko/items/2055226
 Korean language patch
-<p align="center">
+
 <p>Faster and more convenient optimization</p>
-<p align="center">
+
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145700-b77eb280-6986-11eb-9f8b-c83d01ebe5f8.png"><img src="https://user-images.githubusercontent.com/78684522/107145700-b77eb280-6986-11eb-9f8b-c83d01ebe5f8.png" style="max-width:50%;"></a>
 </p>
 
