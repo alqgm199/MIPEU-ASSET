@@ -11,17 +11,17 @@ Korean language patch
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145700-b77eb280-6986-11eb-9f8b-c83d01ebe5f8.png"><img src="https://user-images.githubusercontent.com/78684522/107145700-b77eb280-6986-11eb-9f8b-c83d01ebe5f8.png" style="max-width:50%;"></a>
 </p>
 
-
-<p align="center">
-2. MeshDeleterWithTexture
+<p>2. MeshDeleterWithTexture</p>
 https://gatosyocora.booth.pm/items/1501527
-<p align="center">
-![1](https://user-images.githubusercontent.com/78684522/107145696-b51c5880-6986-11eb-822f-cdf7270c7d24.png)
-<p>Korean language patch
-Existing mesh will be backed up
-Replace the newly deleted mesh
-I recommend this if you don't want to go blender</p>
-<p align="center">
+Korean language patch
+
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145696-b51c5880-6986-11eb-822f-cdf7270c7d24.png"><img src="https://user-images.githubusercontent.com/78684522/107145696-b51c5880-6986-11eb-822f-cdf7270c7d24.png" style="max-width:50%;"></a>
+</p>
+
+<p>Existing mesh will be backed up
+Replace the newly deleted mesh</p>
+<p>I recommend this if you don't want to go blender</p>
+
 3. AnimationValidator
 https://github.com/sukedon/AnimationValidator
 Korean langu<p align="center">age patch
