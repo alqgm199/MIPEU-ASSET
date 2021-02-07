@@ -4,7 +4,7 @@
 
 <p>1. AssetsCompressor</p>
 https://booth.pm/ko/items/2055226
-Korean language patch
+<p>Korean language patch</p>
 
 <p>Faster and more convenient optimization</p>
 
@@ -13,7 +13,7 @@ Korean language patch
 
 <p>2. MeshDeleterWithTexture</p>
 https://gatosyocora.booth.pm/items/1501527
-Korean language patch
+<p>Korean language patch</p>
 <p>Existing mesh will be backed up
 Replace the newly deleted mesh
 I recommend this if you don't want to go blender</p>
