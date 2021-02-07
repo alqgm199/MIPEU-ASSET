@@ -2,7 +2,7 @@
 <p align="center">
 MIPEU-ASSET
 <p align="center">
-1. AssetsCompressor
+<p>1. AssetsCompressor</p>
 https://booth.pm/ko/items/2055226
 Korean language patch
 <p align="center">
