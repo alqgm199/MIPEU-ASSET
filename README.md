@@ -29,7 +29,7 @@ https://github.com/sukedon/AnimationValidator
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145697-b6e61c00-6986-11eb-94ef-2debacaecc13.gif"><img src="https://user-images.githubusercontent.com/78684522/107145697-b6e61c00-6986-11eb-94ef-2debacaecc13.gif" style="max-width:50%;"></a>
 </p>
 
-4. PumkinsAvatarTools
+<p>4. PumkinsAvatarTools</p>
 https://github.com/rurre/PumkinsAvatarTools
 <p>Korean language patch<p>
 <p>※Caution: Poiyomi shader and conflict with each other<p>
