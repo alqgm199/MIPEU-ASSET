@@ -32,7 +32,8 @@ https://github.com/sukedon/AnimationValidator
 4. PumkinsAvatarTools
 https://github.com/rurre/PumkinsAvatarTools
 <p>Korean language patch<p>
-<p>※Caution: Poiyomi shader and conflict with each other This is an old version so it doesn't crash But Currently, the PumkinsAvatarTools creator has patched it.※</p>
+<p>※Caution: Poiyomi shader and conflict with each other<p>
+<p>※This is an old version so it doesn't crash But Currently, the PumkinsAvatarTools creator has patched it.</p>
 
 ![3](https://user-images.githubusercontent.com/78684522/107145698-b6e61c00-6986-11eb-83cc-0186b38d75dc.PNG)
 
