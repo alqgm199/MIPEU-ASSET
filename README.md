@@ -38,8 +38,6 @@ https://github.com/rurre/PumkinsAvatarTools
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/78684522/107145698-b6e61c00-6986-11eb-83cc-0186b38d75dc.PNG"><img src="https://user-images.githubusercontent.com/78684522/107145698-b6e61c00-6986-11eb-83cc-0186b38d75dc.PNG" style="max-width:50%;"></a>
 </p>
 
-![3](https://user-images.githubusercontent.com/78684522/107145698-b6e61c00-6986-11eb-83cc-0186b38d75dc.PNG)
-
 <p>5. PoiyomiToonShaderV4.6.11</p>
 https://github.com/poiyomi
 <p>Korean language patch</p>
