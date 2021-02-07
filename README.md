@@ -17,6 +17,10 @@ Korean language patch
 https://github.com/rurre/PumkinsAvatarTools
 Korean language patch
 
+5. PoiyomiToonShaderV4.6.11
+https://github.com/poiyomi
+Korean language patch
+
 ------------------------------------------
 There is a problem with the Korean patch?
 Or you can ask to drop the file.
