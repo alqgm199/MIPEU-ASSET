@@ -67,3 +67,4 @@ https://github.com/poiyomi
 
 <p>All these patches are only in Korean.</p>
 <p>All the rest of the code is with the creator. => [1~5]</p>
+<p>Please officially receive the latest version as much as possible. => [1~5]</p>
