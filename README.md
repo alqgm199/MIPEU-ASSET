@@ -30,9 +30,9 @@ https://github.com/rurre/PumkinsAvatarTools
 Korean language patch
 
 ![3](https://user-images.githubusercontent.com/78684522/107145698-b6e61c00-6986-11eb-83cc-0186b38d75dc.PNG)
-Caution: Poiyomi shader and conflict with each other
+<p>Caution: Poiyomi shader and conflict with each other
 This is an old version so it doesn't crash
-But Currently, the PumkinsAvatarTools creator has patched it.
+But Currently, the PumkinsAvatarTools creator has patched it.</p>
 
 5. PoiyomiToonShaderV4.6.11
 https://github.com/poiyomi
@@ -41,8 +41,8 @@ Korean language patch
 ![1](https://user-images.githubusercontent.com/78684522/107145590-0841db80-6986-11eb-8feb-b4228a5ff4ac.png)
 ![2](https://user-images.githubusercontent.com/78684522/107145591-0a0b9f00-6986-11eb-8d19-86c7d7117284.png)
 ![3](https://user-images.githubusercontent.com/78684522/107145592-0aa43580-6986-11eb-9186-9bae88b71685.gif)
-Not very recommended, but you may need it
-umm.... maybe..?
+<p>Not very recommended, but you may need it
+umm.... maybe..?</p>
 
 ------------------------------------------
 There is a problem with the Korean patch?
